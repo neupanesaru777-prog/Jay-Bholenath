@@ -1,0 +1,22 @@
+<svg width="1600" height="1000" viewBox="0 0 1600 1000" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="bg" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(800 280) rotate(90) scale(760 1100)">
+      <stop stop-color="#1D4ED8" stop-opacity="0.55"/>
+      <stop offset="0.55" stop-color="#070B17"/>
+      <stop offset="1" stop-color="#010204"/>
+    </radialGradient>
+    <linearGradient id="aura" x1="800" y1="170" x2="800" y2="850" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F6A623" stop-opacity="0.5"/>
+      <stop offset="1" stop-color="#60A5FA" stop-opacity="0.18"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="1000" fill="url(#bg)"/>
+  <circle cx="800" cy="320" r="170" fill="url(#aura)"/>
+  <ellipse cx="800" cy="750" rx="470" ry="120" fill="#0B1326"/>
+  <path d="M800 410C720 410 665 485 665 572V700C665 772 721 830 791 830H809C879 830 935 772 935 700V572C935 485 880 410 800 410Z" fill="#0E1A33"/>
+  <circle cx="800" cy="335" r="80" fill="#122548"/>
+  <circle cx="800" cy="338" r="11" fill="#F6A623"/>
+  <path d="M690 615H910" stroke="#60A5FA" stroke-opacity="0.4" stroke-width="4"/>
+  <path d="M720 530C730 510 745 495 765 488" stroke="#93C5FD" stroke-opacity="0.5" stroke-width="4" stroke-linecap="round"/>
+  <path d="M880 530C870 510 855 495 835 488" stroke="#93C5FD" stroke-opacity="0.5" stroke-width="4" stroke-linecap="round"/>
+</svg>
